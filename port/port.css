@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: blue;
+  height: 659px;
+  width: 70px;
+}
+
+header img {
+  height: 260px;
+  width: 250px;
+  border-radius: 50%;
+  margin-left: 247px;
+  margin-top: 150px;
+  -webkit-filter: drop-shadow(15px 14px 14px black);
+          filter: drop-shadow(15px 14px 14px black);
+}
+
+section {
+  margin-top: -400px;
+  margin-left: 570px;
+}
+
+section button {
+  background-color: blue;
+  color: white;
+  border-radius: 20px;
+  height: 40px;
+  outline: none;
+  border: none;
+  width: 90px;
+}
+
+.options img {
+  height: 20px;
+  margin-left: -550px;
+  margin-top: 115px;
+}
+
+.two {
+  margin-top: -20px;
+}
+/*# sourceMappingURL=port.css.map */
